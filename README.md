@@ -1,5 +1,5 @@
 # Installation
-* __Clone SlimIEM__
+* __Clone jobPortal__
 
 ```
 git clone https://github.com/sohag1426/jobPortal.git
@@ -7,7 +7,7 @@ git clone https://github.com/sohag1426/jobPortal.git
 
 * __set public directory as DocumentRoot__
 
-* __cd to SlimIEM__
+* __cd to jobPortal__
 
 * __Install Composer Dependencies__
 
